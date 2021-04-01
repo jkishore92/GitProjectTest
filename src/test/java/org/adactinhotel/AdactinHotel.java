@@ -44,6 +44,7 @@ public class AdactinHotel extends BaseClass {
 		fillTextBox(l.getPassword(), "1234567890");
 		click(l.getButton());
 		System.out.println("Test1");
+		System.out.println("GIT Check");
 	}
 
 	@Test
